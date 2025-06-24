@@ -8,6 +8,10 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="HtmlAgilityPack" Version="1.12.1" />
+  </ItemGroup>
+
+  <ItemGroup>
     <None Update="sample-news.html">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
