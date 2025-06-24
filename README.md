@@ -1,8 +1,7 @@
 # NewsParser
 
-https://img.shields.io/badge/.NET-8.0-blue
-https://img.shields.io/badge/HtmlAgilityPack-1.11.46-green
-https://img.shields.io/badge/System.Text.Json-8.0-blue
+![.NET Core](https://img.shields.io/badge/.NET-9.0-blue)
+![HtmlAgilityPack](https://img.shields.io/badge/HtmlAgilityPack-1.12.1-green).
 
 **DailyChronicleParser** — консольное приложение для парсинга новостей с сайта DailyChronicle.net и сохранения их в JSON-формате.
 
