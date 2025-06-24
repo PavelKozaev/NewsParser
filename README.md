@@ -10,7 +10,7 @@
 ```bash
 git clone https://github.com/PavelKozaev/NewsParser.git
 ```
-Перейдите в корневую папку решения
+Перейдите в папку проекта
 ```bash
 cd NewsParser
 ```
